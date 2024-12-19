@@ -1,15 +1,15 @@
 console.log('начало');
 import * as BABYLON from 'babylonjs';
 import './styles.css'
-import restart from './assets/restartBlue.png';
-import sand from './assets/sand.jpg';
-import './assets/skybox_nx.jpg';
-import './assets/skybox_ny.jpg';
-import './assets/skybox_nz.jpg';
-import './assets/skybox_px.jpg';
-import './assets/skybox_py.jpg';
-import './assets/skybox_pz.jpg';
-import bascetBall from './assets/ballTexture.png';
+// import restart from './assets/restartBlue.png';
+// import sand from './assets/sand.jpg';
+// import './assets/skybox_nx.jpg';
+// import './assets/skybox_ny.jpg';
+// import './assets/skybox_nz.jpg';
+// import './assets/skybox_px.jpg';
+// import './assets/skybox_py.jpg';
+// import './assets/skybox_pz.jpg';
+// import bascetBall from './assets/ballTexture.png';
 
 //DOM элементы
 const canvas = window.document.getElementById('canvas');
