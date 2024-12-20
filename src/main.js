@@ -1,5 +1,5 @@
 console.log('начало');
-import * as BABYLON from 'babylonjs';
+// import * as BABYLON from 'babylonjs';
 import './styles.css'
 // import restart from './assets/restartBlue.png';
 // import sand from './assets/sand.jpg';
@@ -106,6 +106,8 @@ skyBox.material = skyboxMaterial;
 const ball = new BABYLON.MeshBuilder.CreateSphere('sphere', {
   diameter: 0.5,
 }, scene)
+
+console.log('ball.position:', ball.position);
 
 //позиция мяча
 ball.position.y = 1.5;
