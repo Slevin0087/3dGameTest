@@ -1,5 +1,5 @@
 console.log('начало');
-// import * as BABYLON from 'babylonjs';
+import * as BABYLON from 'babylonjs';
 // import './styles.css'
 // import restart from './assets/restartBlue.png';
 // import sand from './assets/sand.jpg';
